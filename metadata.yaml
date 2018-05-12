@@ -1,0 +1,36 @@
+_repo: Dorothy-on-a-House-Boat_32606
+_version: 0.1.0
+alternative_title: Dorothy's House Boat
+contributor:
+  illustrator:
+    agent_name: Mencl, Rudolf
+    gutenberg_agent_id: '31883'
+    url: http://www.gutenberg.org/2009/agents/31883
+covers:
+- cover_type: archival
+  image_path: 32606-h/images/icover.jpg
+creator:
+  author:
+    agent_name: Raymond, Evelyn
+    alias: Raymond, Evelyn Hunt
+    birthdate: 1843
+    deathdate: 1910
+    gutenberg_agent_id: '31472'
+    url: http://www.gutenberg.org/2009/agents/31472
+description: ''
+gutenberg_issued: '2010-05-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32606'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Chester, Dorothy (Fictitious character) -- Juvenile fiction'
+- !lcsh 'Family -- Juvenile fiction'
+- !lcsh 'Gifts -- Juvenile fiction'
+- !lcsh 'Houseboats -- Juvenile fiction'
+- !lcc 'PZ'
+title: Dorothy on a House Boat
+url: http://www.gutenberg.org/ebooks/32606
