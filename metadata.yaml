@@ -18,6 +18,8 @@ creator:
     gutenberg_agent_id: '31472'
     url: http://www.gutenberg.org/2009/agents/31472
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/32606#Dorothy-on-a-House-Boat
 gutenberg_issued: '2010-05-30'
 gutenberg_type: Text
 identifiers:
